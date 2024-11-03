@@ -1,5 +1,5 @@
 {
-  "short_name": "React App",
+  "short_name": "Easy Ecommerce",
   "name": "Easy Ecommerce",
   "description": "Easy Ecommerce Systeme",
   "lang": "en-US",
@@ -60,5 +60,4 @@
       "type": "image/png"
     }
   ]
-  
 }
